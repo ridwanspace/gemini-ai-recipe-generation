@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+google-cloud-aiplatform
+google-auth
+google-generativeai
+google-ai-generativelanguage
+Pillow
